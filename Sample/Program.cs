@@ -8,6 +8,7 @@ namespace Sample
         {
             Console.WriteLine("Welcome to .net ");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to India");
         }
     }
 }
